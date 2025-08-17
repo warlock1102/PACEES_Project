@@ -1,5 +1,4 @@
 ## Summary
----
 
 This project is part of the *Protection, Automation, and Control in Electrical Energy Systems* 
 subject. In this study, a small microgrid consisting of 6 households is modeled in MATLAB Simulink. 
